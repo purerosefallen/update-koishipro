@@ -1,10 +1,10 @@
 ﻿bot.conf	9e7779bfc66a702d59148e00d89d584a
 Bot.exe	b47e54b4f1540b8445ddb0626d241d77
 cards.cdb	5dd535f22af70d16a1c98ee611625215
-lflist.conf	2837f7544ac78c7c0dac4b75fe804034
+lflist.conf	e9cd645c50b122530c5e23e0908f2056
 strings.conf	fef6be2e0e5433a7bb8f0314f4e84c1e
 system.conf	b16c001b03cad30bd783867898c3791c
-ygopro.exe	52cc8c8f7f3e08a70b708de6afea9f02
+ygopro.exe	8586a7a577b8edb54752f3d372d20602
 deck/1.1new ocg forbidden.ydk	9f321fe55d0be9fdcd61185fc52910e5
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
@@ -17764,11 +17764,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	fc7838976d96f31aec82f42c8ecc0bd3
+update-koishipro/filelist.txt	ec352654baa5f506819fac321f879d3b
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	3e49b55b3c74e67f1ab315026d142b80
+update-koishipro/version.txt	3185249403a010aa745ec4be448d8959
 WindBot/bots.json	4d705daa20bef648ce9d431224fb50fb
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
