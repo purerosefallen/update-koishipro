@@ -3,16 +3,13 @@ Bot.exe	de364e376573c197cdce693a33271948
 cards.cdb	ee6972f2e52c03ff962e691e80cfd284
 lflist.conf	e9cd645c50b122530c5e23e0908f2056
 strings.conf	fef6be2e0e5433a7bb8f0314f4e84c1e
-system.conf	5c22fe10bd2673ce96f1160f81d411f0
+system.conf	7eb58c5402dc1e24a4dd6f9484497af8
 ygopro.exe	a8d7ab996e809938dd3eafcb6798dafa
 deck/1.1new ocg forbidden.ydk	9f321fe55d0be9fdcd61185fc52910e5
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
 deck/Blue Eyes.ydk	d7b75185955bc281cb7a6f1963e0c95c
-deck/new-DBDS.ydk	166a8f376602eab3dc5b3743756260be
-deck/new-LC06.ydk	5aff2ac572b4cefab7e1a50fa5bca168
-deck/new-SR06+other.ydk	cd8194d3a4f05bf86863d57d2c2ef037
-deck/Shaddoll.ydk	b2aaaf997cedeb69f025cf6f03625e5f
+deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 deck/Spyral.ydk	5807bbf513f2b7772e0329c3f691c308
 deck/Stargrail.ydk	63bb270cc382c496cbdefa22e6778e32
 pics/10000000.jpg	52765e3877752ad40d748f9bd7815034
@@ -10686,7 +10683,7 @@ script/c23971061.lua	37e8823cb7297d39e9ec3bf9f98d42ed
 script/c23979249.lua	f35af851e89053e74838a7851f689552
 script/c23995346.lua	357ad9670527fcbab9e7186034e17dca
 script/c23998625.lua	9f801652f9cad654e4413a221782a666
-script/c24010609.lua	55e49c9a6df8e957605d8c7981363d77
+script/c24010609.lua	77893612288614a862f83061ad517e3d
 script/c24019092.lua	2f33bc6e6ba3d4bf892154244f16aaa6
 script/c24019261.lua	6214062352bf796e833436054de3b04f
 script/c24025620.lua	436a765d245743557875d8f944792e15
@@ -14214,7 +14211,7 @@ script/c61850482.lua	d328d163856563505ef3228a766902dd
 script/c61854111.lua	74d46a375d9aa77d304095fb52064da8
 script/c61864793.lua	f2812e289af183913482208157f6affc
 script/c61884774.lua	d262629fd272f3226436f0f97145b0b4
-script/c61888819.lua	193a1eb8a1763c5f1a01882c5d98ad89
+script/c61888819.lua	42506f9c30c89b07eb64334d16d48165
 script/c61901281.lua	f5eddb6d2587a30aee4f71ac50970cac
 script/c61936647.lua	5ad74ba014748cfac2828f387547d7e8
 script/c61948106.lua	5de798f55298996cf9500b372c58c52c
@@ -17608,7 +17605,7 @@ sound/diceroll.wav	772ae1f7647970f6b7a835ff669c5458
 sound/directattack.wav	4c48130d92a63fe1abe78c86e40798a5
 sound/draw.wav	889074246757a5566ed4354cf6e5242f
 sound/equip.wav	e1817855edd17ae5d7ffc6ca25f60940
-sound/files.txt	40907cf442f2ded704fa198841ce65bb
+sound/files.txt	0e03f5012d3c3bdda90e2fef592cf5eb
 sound/flip.wav	5e626ee6f5bae5765515d313ead70ee7
 sound/gainlp.wav	205e428b34dc66734f84369d23eeb7bd
 sound/info.wav	210ae540faf7efc8a010937dfe55f1f5
@@ -17627,7 +17624,7 @@ sound/target.wav	da816f758fe0209ffffacdaa53fbb174
 sound/token.wav	5cc11cfc680533c041537309ca90d061
 sound/BGM/advantage/1.00adv.mp3	99c7a36c726926e19f76f4113e042f96
 sound/BGM/advantage/1.962adv.mp3	6cff2bf4929eaae90785bfbd7f97b6fc
-sound/BGM/advantage/1.984adv.mp3	9ed4d6d58799917eaad1fc987637740c
+sound/BGM/advantage/1.984adv.mp3	81c0413eff9643d295f2e122433cb7d8
 sound/BGM/advantage/1.986adv.mp3	b918e66d696f2f2dd82df5f8e01e6d7e
 sound/BGM/advantage/1.986advp.mp3	a0670d7e68207f092d5ca3e27668da7a
 sound/BGM/advantage/1.989adv.mp3	6175d86c51c882636f0808a60aefad29
@@ -17721,11 +17718,7 @@ textures/exit.png	1638be680a016d3fb617aa6723b207b4
 textures/f1.jpg	8e99f2809fb60b534a62dfa6d146d5f2
 textures/f2.jpg	ad27aa8c26369f31d374dd0fc7e1c2dd
 textures/f3.jpg	ff3ec4e374b6b302469cf4e293e7bf24
-textures/field-transparent.png	e9bca04cd6ec4fe597ae8b941878e8eb
-textures/field-transparent2.png	b8cca02d9f339b00144c1123dc1d9358
-textures/field-transparent3.png	e4c656c3e1f5a9ab9f8f72fa252c9cf7
 textures/field.png	5a6d8eda002d1ebe268e916ddca52bdc
-textures/field2-transparent.png	a5895590bb45c1fe9fa33424bc98e13a
 textures/field2.png	b32091a07116937b8fce010448b9c2be
 textures/field3.png	6f7e29df0e03e95fbd65115fdcc0f135
 textures/lim.png	4c3a62c5ed36eb46aa06d2560008d133
@@ -17784,15 +17777,7 @@ textures/cover2/cover2EF.jpg	f2f3fce091c34dfd2b51ab03a4a645d8
 textures/cover2/cover2LV.jpg	b846a03eea5aab47695220a79cb62f83
 textures/cover2/cover2WZ.jpg	9d6ce111093b59c9cfa8efb572714507
 textures/cover2/coverFR2.jpg	29a9388e83393ff8a7fe6d5fff551b78
-textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
-textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
-update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	dcdccdf8e0a9178a6bef45dd3c0d1f01
-update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
-update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
-update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	4b07a6cb0d1e728674e4d0a03d6bb2a3
 WindBot/bots.json	4d705daa20bef648ce9d431224fb50fb
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
@@ -17825,12 +17810,4 @@ WindBot/Decks/AI_Trickstar.ydk	d0324b967e71b14a0cf49684655b47c4
 WindBot/Decks/AI_Yosenju.ydk	d72a593a061f6d04f5d244bd9b072e1f
 WindBot/Decks/AI_ZexalWeapons.ydk	0654c20a72b57e6a92fe745de1b521fe
 WindBot/Decks/AI_Zoodiac.ydk	640eff800b9dc0a97339bbf269885b05
-WindBot/Dialogs/cirno.zh-CN.json	9c23b3ea1f7b2a72cd16a6ea9714fe95
-WindBot/Dialogs/copy.zh-CN.json	88d14290d671295a31b95017fd628807
 WindBot/Dialogs/default.json	0b06f53d54904263caa3304875ed5b44
-WindBot/Dialogs/mokey.zh-CN.json	b967642b9cdfac7090627f94dee71a35
-WindBot/Dialogs/near.zh-CN.json	931b580bd6dec33353be8adb0eda1831
-WindBot/Dialogs/sennai.zh-CN.json	d3f90cafa8e0757943c2e64152b721df
-WindBot/Dialogs/soul.zh-CN.json	dcb40d93c29afc5f2c01b9971e54822c
-WindBot/Dialogs/swordsman.zh-CN.json	8afd760bcf30c8356e9b8b56c57da19d
-WindBot/Dialogs/zh-CN.json	8afd760bcf30c8356e9b8b56c57da19d
