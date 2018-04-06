@@ -1,6 +1,6 @@
 bot.conf	9e7779bfc66a702d59148e00d89d584a
 Bot.exe	18b7278e2960054e09b39fbd941a99cd
-cards.cdb	ee6972f2e52c03ff962e691e80cfd284
+cards.cdb	2d94b951496ee8ffe58b7a430f00ce3a
 lflist.conf	e9cd645c50b122530c5e23e0908f2056
 strings.conf	fef6be2e0e5433a7bb8f0314f4e84c1e
 system.conf	7eb58c5402dc1e24a4dd6f9484497af8
@@ -1275,6 +1275,7 @@ pics/21767650.jpg	89158cb5f5c429ae3f2297ea14470926
 pics/21768554.jpg	e9e1e228c860db691cf071299e45db50
 pics/21770260.jpg	f8927a5f775ef21411e8204c6380a748
 pics/21770261.jpg	21ad20f141a789a685d60ff79f5a262a
+pics/21770839.jpg	0c3cb6650dfed384463bc66420c23e69
 pics/21772453.jpg	addeb29ed979c7f78783cd84b980b5ea
 pics/21785144.jpg	bb443476ef0aed102c3b8455dd1059b8
 pics/21790410.jpg	6a815d8f065d55de3dc542211bdeb830
@@ -10458,6 +10459,7 @@ script/c21715135.lua	febeb00f79a2d34b75d870a89c5ffd23
 script/c21767650.lua	c9f32bc4232ba826d06e9f7769b0c35e
 script/c21768554.lua	31dc82181875228d5989f67032f2cafe
 script/c21770260.lua	af337309d8276b942c3d3a88e5afba7a
+script/c21770839.lua	cacb945d46d757b70d28cb525d715067
 script/c21772453.lua	8b9d67509ae503a015f0155efbf990ea
 script/c21785144.lua	2fb97101627b8adfc2c56d724972e13a
 script/c21790410.lua	d2cf7f593adf4daaf86688ce7bc96c68
@@ -17786,11 +17788,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	d9dffab721e6d0df3cd2475eb1625ac9
+update-koishipro/filelist.txt	f89eb9893a9a9a00408417c9fb02e907
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	9660d82fc2a2b9c4f5ba550647b797eb
+update-koishipro/version.txt	bcc772d64068fd71651328133a83706c
 WindBot/bots.json	4d705daa20bef648ce9d431224fb50fb
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
