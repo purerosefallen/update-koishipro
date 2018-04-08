@@ -1,10 +1,10 @@
 bot.conf	9e7779bfc66a702d59148e00d89d584a
-Bot.exe	18b7278e2960054e09b39fbd941a99cd
+Bot.exe	f2024b034142d1134ed6f1f13100fb4c
 cards.cdb	2d94b951496ee8ffe58b7a430f00ce3a
 lflist.conf	e9cd645c50b122530c5e23e0908f2056
 strings.conf	e1fa406606dc907c86602c01678672d2
 system.conf	4cb2c81ab8bc8e0ae8472457d02fb2d9
-ygopro.exe	34a5752e50a12917a2e6a1abc5bd6184
+ygopro.exe	a51ae21a264897019f1e46fa43243a4b
 deck/1.1new ocg forbidden.ydk	9f321fe55d0be9fdcd61185fc52910e5
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
@@ -17816,21 +17816,22 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	b1f4e6c83d24d4b33702ef14b5dcbce1
+update-koishipro/filelist.txt	95772753cd392ac1da83b94c701de95a
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	1c9faae0568a9c915092913f94a59374
-WindBot/bots.json	4d705daa20bef648ce9d431224fb50fb
+update-koishipro/version.txt	329f840b7ee78c4be3a386449f4bde18
+WindBot/bots.json	40d37ec872f6cd416aa6f5b3636fd3a7
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
-WindBot/WindBot.exe	2add5cf5a1d00827412e677235d295ea
+WindBot/WindBot.exe	ddf43223b6c41030d680e2df43640504
 WindBot/YGOSharp.Network.dll	d21389114bb7c7477819f5419fc8f0e2
 WindBot/YGOSharp.OCGWrapper.dll	904ba1cdf9697de97c30421b6cd3bf6a
 WindBot/YGOSharp.OCGWrapper.Enums.dll	1116248ab2d97de0e0388289fa90100d
 WindBot/Decks/AI_Blackwing.ydk	aaf2812f8d9acde7501467b7ac53b221
 WindBot/Decks/AI_BlueEyes.ydk	18565292b3f7bbd5dc3a26ebcac8ab52
 WindBot/Decks/AI_Burn.ydk	8659a20f101617dd219787fe051babc6
+WindBot/Decks/AI_ChainBurn.ydk	0bbc3d6e7d75bb8ef510c4800f189d29
 WindBot/Decks/AI_CyberDragon.ydk	2c8e9be338533e3c3c1c93fcfb661e86
 WindBot/Decks/AI_Dragunity.ydk	aee0b5f23fe5306240ace0790a767cae
 WindBot/Decks/AI_Evilswarm.ydk	2c7b7f9d293ea67d666e29ca90794924
