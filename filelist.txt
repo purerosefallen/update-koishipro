@@ -9432,6 +9432,8 @@ pics/field/95658967.jpg	4228b92f6b4120eb0cf1296298bb75ec
 pics/field/975299.jpg	182dd6ca1218bc95f097043012d5a743
 pics/field/99795159.jpg	795213b0e389e6036c9c8e5a37827dab
 pics/field/9989792.jpg	68a931a6d6adf4a1634b414ac8466e01
+replay/_KEEP_THIS.txt	b026324c6904b2a9cb4b88d6d61c81d1
+screenshots/_KEEP_THIS.txt	b026324c6904b2a9cb4b88d6d61c81d1
 script/c10000000.lua	c35b65cfa05eff786c731b1386acd297
 script/c10000010.lua	312f6ae388d22953439d6e9e64809f49
 script/c10000020.lua	aacd9d3c10fc5af6733318fab97d6c3f
@@ -18072,11 +18074,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	1f7eaffdaf48e58ac7bdfbe541f3e8a6
+update-koishipro/filelist.txt	ed1146e8a6dd6b931796a4c67fe131ab
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	89b9e4851023551c145a8a9582c6dfa7
+update-koishipro/version.txt	1ec2c14ae352fc28ca913437195518a3
 WindBot/bots.json	8229cafa84eec4c23788838392c3cb1a
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
