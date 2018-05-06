@@ -4,7 +4,7 @@ cards.cdb	a1538e40095930a09b117d765a766f01
 lflist.conf	e9cd645c50b122530c5e23e0908f2056
 strings.conf	06bb97b3801a7152625bcdf289e64b2d
 system.conf	4982032a856ce63551b3cd04ceac7397
-ygopro.exe	c977b5fb41eb62abc0880dd63c4c15e1
+ygopro.exe	7e433c1cbbd2811b9a7bdbef03905885
 deck/1.1new ocg forbidden.ydk	9f321fe55d0be9fdcd61185fc52910e5
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
@@ -10506,7 +10506,7 @@ script/c21159309.lua	bc69f0adf7970fe7063ac916ce531245
 script/c21175632.lua	65bc76af36aabfbe48d91354af088b38
 script/c21179143.lua	e5e1379efdf16fe7b8166d6a37561858
 script/c21200905.lua	f2e4b8a35b7bb45e7fc2c6f40f0e8025
-script/c21208154.lua	94322b6d85f0bbb304cdffba5d41245f
+script/c21208154.lua	b0d5aeccfa7a4333eb1a1aee8b85372b
 script/c21219755.lua	87b6319c794080e41c1c3370a4ce2d81
 script/c21223277.lua	1891327536670b725149ea27916e9d76
 script/c2122975.lua	80435c3af6aac26ee479d13ff1498d0c
@@ -10536,7 +10536,7 @@ script/c21420702.lua	6e7eb1ce46e9d157ff50b681d13edcc0
 script/c21435914.lua	e7a3d91769894e8299d48aa1b337aa4b
 script/c2144946.lua	804651a0f8df1086836b5cf5523660e0
 script/c21452275.lua	f28d7443b16befb786afe0233dc983e6
-script/c21454943.lua	1f9dd646ba6abf5eb6075924ea505dd3
+script/c21454943.lua	177339e056f68cac126d4263e95c4d0c
 script/c21466326.lua	24ce6213d877f2e897e5168be9a10b97
 script/c21481146.lua	9058a70d9d3469fb03fef36cd2b47356
 script/c21488686.lua	9ee39518159b2afa3c9147f8208d6d81
@@ -18072,11 +18072,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	39606e964e877de39de05c06052da024
+update-koishipro/filelist.txt	1f7eaffdaf48e58ac7bdfbe541f3e8a6
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	3dd786b1e04c45cbb86be1fa522775e6
+update-koishipro/version.txt	89b9e4851023551c145a8a9582c6dfa7
 WindBot/bots.json	8229cafa84eec4c23788838392c3cb1a
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
