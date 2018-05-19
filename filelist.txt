@@ -4,7 +4,7 @@ cards.cdb	8e1c811d6cd52a9a530edc36b5844504
 lflist.conf	272242ad0f0adcf0e2a0afb85359b728
 strings.conf	866d242b3c85cecb5d348b496c75a957
 system.conf	4982032a856ce63551b3cd04ceac7397
-ygopro.exe	e0817993e3a12852f7d5a9b263b9575a
+ygopro.exe	51648afc6ae3d226d5b1a43b864df4c9
 deck/1.1new ocg forbidden.ydk	9f321fe55d0be9fdcd61185fc52910e5
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
@@ -17976,6 +17976,7 @@ sound/BGM/advantage/1.986advp.mp3	a0670d7e68207f092d5ca3e27668da7a
 sound/BGM/advantage/1.989adv.mp3	6175d86c51c882636f0808a60aefad29
 sound/BGM/advantage/1.989advpp.mp3	9373855d1a1c37e902af198a4ebc7f08
 sound/BGM/advantage/1.990adv.mp3	fcf2d337bc80b0e04576455c81997c78
+sound/BGM/advantage/Anti the HOLiC.mp3	e4c9793bbc34e964c7021419a0ee1780
 sound/BGM/advantage/monosu.mp3	5e991304c845aeaac09c77fb1c073a01
 sound/BGM/advantage/Monosugoikuruttoru Furantyanga Monosugoi Uta.mp3	6b69e22257e027b8d3e1c0b17ec36786
 sound/BGM/deck/1.91deck.mp3	fef5e92d8e457375fb64adbb5fb9cda8
@@ -17993,6 +17994,7 @@ sound/BGM/deck/1.989deckp.mp3	01330c3c14f4b87b3e071a4cffd3893b
 sound/BGM/deck/1.989deckpp.mp3	1e0515ef8ce3d45d4b447d64b3656d07
 sound/BGM/deck/1.990deck.mp3	1fc749daa2791caaf910d8430b2cd251
 sound/BGM/deck/1.990deckp.mp3	35490de49c23503dd82081eec726ab2f
+sound/BGM/deck/Gateway Galaxy.mp3	45edb69478ae7357a6aed5521a185671
 sound/BGM/deck/saisou.mp3	f39aa99ddd830d2e86a515ad23b156d3
 sound/BGM/disadvantage/1.902disad.mp3	483d834d001772ebf631ae46dcd09521
 sound/BGM/disadvantage/1.92disad.mp3	f578c222515a578c971b5b94905883d8
@@ -18005,6 +18007,7 @@ sound/BGM/disadvantage/1.986disadpp.mp3	8e39c55be0fba33e799557c73a04ea94
 sound/BGM/disadvantage/1.989disad.mp3	39f9193dd2d84770f9f6a1c408fa1b43
 sound/BGM/disadvantage/1.990disad.mp3	9e909cf3425b851592bbfa1889daad27
 sound/BGM/disadvantage/shijyo.mp3	1afa8a4694572e0a99f5b7665223292b
+sound/BGM/disadvantage/Who Killed U.N.Owen.mp3	382f056359f1e4d87f7570b6b7587331
 sound/BGM/duel/1.87duel.mp3	309d7c975f03b3ca7c3771224b305395
 sound/BGM/duel/1.87duelp.mp3	3c33d80c504c3d39373e02c9a7467971
 sound/BGM/duel/1.972duel.mp3	d4ca3b5090929c2e0ed61a4bfc3cf9bb
@@ -18026,6 +18029,8 @@ sound/BGM/duel/1.990duelppp.mp3	29e32e11209a9f6dc39626770d9446cf
 sound/BGM/duel/ayakashi.mp3	0b5e4950ea8b307f92b982b725f71f73
 sound/BGM/duel/bijyutsu.mp3	7bcc47523f60d1cbe1779b01da7ca127
 sound/BGM/duel/melody.mp3	7d29238410a9dd3fc14ae7631698ea0a
+sound/BGM/duel/Omoiyoshino.mp3	07478454147dcc923a9a91c66b6f64bb
+sound/BGM/duel/Romeo.mp3	70c6c0cc298d87a9056aeb5f5601f4c1
 sound/BGM/duel/tsuki.mp3	5fa40d05c684382a459e329f721b201f
 sound/BGM/lose/Fall In War.mp3	1e4ed4dd61a4973f445c6a74f525cd57
 sound/BGM/lose/lastdance.mp3	5c23999f2ed831421dc0da3abc3ad8d0
@@ -18047,6 +18052,8 @@ sound/BGM/menu/1.990menu.mp3	e4faeec777febb52699d97a6d3426b58
 sound/BGM/menu/1.990menup.mp3	80b459d38a47d990bfca2c68153168b6
 sound/BGM/menu/1.990menupp.mp3	8b0cc15d681fe3e1b3dc92d4c3ca6c61
 sound/BGM/menu/hirahirahirara.mp3	99e19303e23d54fe16a4c2cf380b784f
+sound/BGM/menu/Katone.mp3	4b8073cd165f3fb7f71ff34004a3d303
+sound/BGM/menu/Yumemi.mp3	2bc4baa0088326f428e471834d1d9ac5
 sound/BGM/win/LiveActors.mp3	370e49c36f979a4e6a8e94e3e3fb58f1
 sound/BGM/win/Stage Clear.mp3	dbb29cd8a039888cc6308a0c76e4c068
 sound/BGM/win/thc_win.mp3	0a1eed5f47aaa9100d32198f76bf1b0d
@@ -18159,11 +18166,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	740093b70a66633f83e9202f654db3e9
+update-koishipro/filelist.txt	51bd53f1afe8014f2c2169853a42315e
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	9bff758da5b06c7a3b55a8b05482a4c6
+update-koishipro/version.txt	92ed6d894d16826cf251263900d90467
 WindBot/bots.json	8229cafa84eec4c23788838392c3cb1a
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
