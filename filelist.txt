@@ -1,10 +1,10 @@
 bot.conf	8b21dde4f086343d783bd84173db41f1
-Bot.exe	4f88fea9fac068a65a1129e7fe34e06d
+Bot.exe	82df9f3c4121ea27016cfa43ab963747
 cards.cdb	2946ce24f595bf86596020f2562aad2c
 lflist.conf	272242ad0f0adcf0e2a0afb85359b728
 strings.conf	cddc7df2d181c4c04163c1dac494daa3
 system.conf	4982032a856ce63551b3cd04ceac7397
-ygopro.exe	f5d53c563688ff93e62f9457913435f0
+ygopro.exe	ca6845c0eb80343fadad2428967933a7
 deck/4.1new ocg forbidden.ydk	3da2a89bad553706ca162804501f6cdd
 deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
@@ -9432,8 +9432,8 @@ pics/field/675319.jpg	47aa4ec6f8e8b6050be1e8c848e60357
 pics/field/67616300.jpg	9259e4a690a3eb6a3ed70b1440bf7605
 pics/field/67831115.jpg	ba15720bbe32b8821b1b0ef5210f2ea3
 pics/field/68462976.jpg	f13a110ab7c75273a2062722b80c3c00
-pics/field/69039982.jpg	1b61f306e7ddde183fcd8687020bc854
-pics/field/69217334.jpg	3dc2de9c152bae76001bd3b9b4cac9b5
+pics/field/69039982.jpg	bad24c4a4407694ea741ffc87494592a
+pics/field/69217334.jpg	35ec1c5f46f905d668f5d0c78bdd601b
 pics/field/69296555.jpg	9cf721a62a4ae0cef76bb3767fff3dd7
 pics/field/69408987.jpg	5848d30bb34182c47a63710518058b1d
 pics/field/70222318.jpg	178311604916534c8b3d954623ba7b6b
@@ -9441,7 +9441,7 @@ pics/field/70422863.jpg	e9ef392faf20d4e7302750252024bbcc
 pics/field/712559.jpg	fe0c00eb982fde8c4d0034e8aefe8e11
 pics/field/71645242.jpg	f608de62cc5a59140e0e77ed0707504b
 pics/field/71650854.jpg	8948877c567d06a65864dc8533483c76
-pics/field/72283691.jpg	7bb9ec01682944dd7950fb2139ef5b38
+pics/field/72283691.jpg	ae3a8764610e187b5fd8b01799d8ad48
 pics/field/72772445.jpg	ccf66a17b3f13fa356604076bad24607
 pics/field/73206827.jpg	8c8e1ee6bf9019291a988086d02b0eff
 pics/field/73787254.jpg	f20aaf7fd534c8a7fd7edd23826b9bc7
@@ -18193,15 +18193,15 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	5134c138f54e92f76555e9b0b064921c
+update-koishipro/filelist.txt	eeb7920f210f8278133c92f1d419cdcb
 update-koishipro/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
 update-koishipro/update-push.bat	49e0e022872a85c5350b8ee445ecd4d8
 update-koishipro/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update-koishipro/version.txt	7579d278f079911bf22f858986da329e
+update-koishipro/version.txt	cff664fe121df2a7e7fd77fbfeee3ee4
 WindBot/bots.json	c377c41c846d0b052a6741bcee99a6a7
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/sqlite3.dll	07fb6d31f37fb1b4164bef301306c288
-WindBot/WindBot.exe	236ab929016ce4708728339596deba9d
+WindBot/WindBot.exe	d3ee2b252ff1c39c175006a758425e40
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
 WindBot/YGOSharp.OCGWrapper.dll	74cd4288807454d612087849adf7a86b
 WindBot/YGOSharp.OCGWrapper.Enums.dll	fecbcf880340dd06803f123647acb6ca
