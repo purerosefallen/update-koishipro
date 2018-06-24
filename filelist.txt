@@ -1,4 +1,3 @@
-﻿.gitmodules	3cb8fa877b1e6b4a2f54fc39fbec9262
 Bot.exe	2dbd49d2229a13c01cbc00150d2998f0
 bot.conf	8b21dde4f086343d783bd84173db41f1
 cards.cdb	9f2473b7e5e4613bd4b05d58cb0645de
@@ -65,7 +64,6 @@ deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 deck/Spyral.ydk	5807bbf513f2b7772e0329c3f691c308
 deck/Stargrail.ydk	63bb270cc382c496cbdefa22e6778e32
 deck/new-CP18.ydk	4871f922f1d49948bc86a53bdacd03fb
-deck/new-other+FLOD(TCG).ydk	ba28b608cd5bbb3f273969bbc22f9027
 pics/10000000.jpg	52765e3877752ad40d748f9bd7815034
 pics/10000001.jpg	3813023a9f7c691c517d3e3973bdc7f7
 pics/10000002.jpg	ddd5bfd210ee567738aac1ba957a9bab
@@ -9533,7 +9531,6 @@ pics/field/95658967.jpg	4228b92f6b4120eb0cf1296298bb75ec
 pics/field/975299.jpg	182dd6ca1218bc95f097043012d5a743
 pics/field/99795159.jpg	795213b0e389e6036c9c8e5a37827dab
 pics/field/9989792.jpg	68a931a6d6adf4a1634b414ac8466e01
-script/.git	5c44098933a4ffb91093b366836234c8
 script/c10000000.lua	0dbfaa92c6c2e28cddb018fe83ad6177
 script/c10000010.lua	aba6fb16e6a6d1d79ee3c2af542cb9b5
 script/c10000020.lua	30b5c9a9eff4b5cdb0106d344bbef428
@@ -18271,9 +18268,9 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	6d773b3602574ad4a2a0aeb347384526
+update-koishipro/filelist.txt	7044ac56b2d19e685a024c180aa59515
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	d70b1dd1c2002e8a27534ffd3eaa450c
+update-koishipro/version.txt	c64ec0b627f7e1d18d6c2dbceecc2d86
