@@ -2,7 +2,7 @@ Bot.exe	2dbd49d2229a13c01cbc00150d2998f0
 bot.conf	8b21dde4f086343d783bd84173db41f1
 cards.cdb	e8b1ea6be4a2ae63513587e74fd334f6
 lflist.conf	a75403078f59c7bcab5251a4d6256724
-strings.conf	e798dd9bdbf18f5301648bb4ce2871e2
+strings.conf	49683bcbf7f12bd685c531ca37176305
 system.conf	b9acdc8fc57b847b9312db3f02febd74
 ygopro.exe	9ad8bef7bbe37855d2616237dfe6bb50
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
@@ -63,7 +63,7 @@ deck/Blue Eyes.ydk	8fc9dc9a60047e0f22494213d45642a7
 deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 deck/Spyral.ydk	5807bbf513f2b7772e0329c3f691c308
 deck/Stargrail.ydk	63bb270cc382c496cbdefa22e6778e32
-deck/new-DP20.ydk	cadf7353808c2c7c9e8046bfe1d425df
+deck/new-SOFU(1006).ydk	aa2579338592a91bc268e7c2bcdd6809
 pics/10000000.jpg	80f730a4c9a48bdda7461af88f518975
 pics/10000001.jpg	09a6431c652bf74306652ab534965b3b
 pics/10000002.jpg	9e3017025b463b9f7dbd5800e05a31b2
@@ -18395,11 +18395,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	75ad7f5173fad7f9a1cf1d8472de3ca6
+update-koishipro/filelist.txt	e650d824ef6d4a6db96ff8caed47d4cc
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	b55253e8a8541e0b9a63c9aeef6e6146
+update-koishipro/version.txt	f1f2c961cfea0bf25b329eeeb1218e58
