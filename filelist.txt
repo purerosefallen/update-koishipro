@@ -1,6 +1,6 @@
 Bot.exe	2dbd49d2229a13c01cbc00150d2998f0
 bot.conf	8b21dde4f086343d783bd84173db41f1
-cards.cdb	918d33e92e26360459662867756762cd
+cards.cdb	2f54d94deb5b56c4b9ea918984f2296f
 lflist.conf	a75403078f59c7bcab5251a4d6256724
 strings.conf	3ccc290499a84acabc61d93e9eb8129b
 system.conf	b9acdc8fc57b847b9312db3f02febd74
@@ -231,7 +231,7 @@ pics/11390349.jpg	6d4d115d074ce4e902290c2969d2f3a0
 pics/11398059.jpg	100d7d22c4b74c9e764dcb19c6eebb56
 pics/11398951.jpg	d6c73b9d1fa7ee41c84d2f9342078820
 pics/11411223.jpg	1b9d1d52db15ed77bf683c041d55579b
-pics/1142880.jpg	fb757abdf76c0715373a6512ef61f0f5
+pics/1142880.jpg	464f75e5afed086c2927fe436e62619b
 pics/11439455.jpg	7c683b428f945dc56b15b31df166b085
 pics/11448373.jpg	77233852b84be4f5616a7a83dd5737c6
 pics/11458071.jpg	c4f3dc8be745c902a19df96871846587
@@ -3489,7 +3489,7 @@ pics/41463181.jpg	e047ee1151152042505d67c80500836f
 pics/41470137.jpg	c55246d92a33a2cd498263c13eabfb51
 pics/41475424.jpg	e4e4f582065fb3eb29f27fb36da8a062
 pics/41482598.jpg	c10aa0931041876e70e96c82fc29cb1f
-pics/4148264.jpg	496d95e6199bbab1650a8ba746d51aa8
+pics/4148264.jpg	6e406dc6a2475b56ddce4c245f589b11
 pics/41493640.jpg	11b675bd62f7a04e57b1fa683bfbc72f
 pics/4149689.jpg	7d278beeb3e229179ee47d96395bc2cc
 pics/41510920.jpg	4ccc82603213044ba3bc35f5401a8ebe
@@ -7619,7 +7619,7 @@ pics/81223446.jpg	f35a3b9b4803d338e392b4b7f8cbb78e
 pics/81231742.jpg	82ea096adad887bd17166314c2a64156
 pics/8124921.jpg	2e56b032c1bcdc3e4b8694d8906adcce
 pics/81254059.jpg	9402c30f5d16871c57eee32da53e23f5
-pics/81263643.jpg	281596f3bdd1a67a373f41fcac644337
+pics/81263643.jpg	693d0d1c3b7bcc3d4bf40fef5fb0a728
 pics/81269231.jpg	0d268ed63b12deb02bc92a804900d300
 pics/81275020.jpg	2cf218de623a73dff457e7c4d512228d
 pics/81275309.jpg	0ddbb6b14ab32a8573cb6bd75cd0241a
@@ -18423,11 +18423,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	49482bb3d2c2985cd246aa23b9cf00d0
+update-koishipro/filelist.txt	f9518e896e1d77e2b47f4ad626a44715
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	0de753dce6b11e8a4c16531cf6a7918d
+update-koishipro/version.txt	86d32db1724ddbbe6f9b386b7d8b2c55
