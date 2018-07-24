@@ -61,8 +61,7 @@ deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
 deck/Blue Eyes.ydk	8fc9dc9a60047e0f22494213d45642a7
 deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
-deck/Spyral.ydk	5807bbf513f2b7772e0329c3f691c308
-deck/Stargrail.ydk	63bb270cc382c496cbdefa22e6778e32
+deck/new-20180724.ydk	d4857c05c53081080420015bd936081a
 deck/new-SOFU(1006).ydk	aa2579338592a91bc268e7c2bcdd6809
 pics/10000000.jpg	80f730a4c9a48bdda7461af88f518975
 pics/10000001.jpg	09a6431c652bf74306652ab534965b3b
@@ -18207,7 +18206,7 @@ script/c99995595.lua	834c15694b0d2a9e54a2d57225d5c6d6
 script/c9999961.lua	dd1203fd7facf6a6e0683a375309bf05
 script/constant.lua	67def80306652c1fdc7570c75c86bd1c
 script/utility.lua	2fc3d8c9447c53741a3b89fbbe403381
-single/LinkSummon.lua	20c097892d19c7186a17a1f26fba61ad
+single/LinkSummon.lua	3c9fd1e4a03d1cf88214350e52825724
 single/sample1.lua	c2a889c1c595dfb6fd5d4f177315e9d2
 single/sample2.lua	8dbe600ca6ce945265698e6016b8d076
 single/sample3.lua	32f470d597826e13af0fef6357220517
@@ -18423,11 +18422,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	8a8253e0c7f409a6d9d83be342102de5
+update-koishipro/filelist.txt	f69446fa69b389210a060d1e9be1cf06
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	ff54a21e8a9e9184499e1e2ae9e8d3f0
+update-koishipro/version.txt	9eabcfd254a8f7ae9e9295137678d106
