@@ -2,7 +2,7 @@ Bot.exe	2dbd49d2229a13c01cbc00150d2998f0
 bot.conf	8b21dde4f086343d783bd84173db41f1
 cards.cdb	2f54d94deb5b56c4b9ea918984f2296f
 lflist.conf	a75403078f59c7bcab5251a4d6256724
-strings.conf	3ccc290499a84acabc61d93e9eb8129b
+strings.conf	8f68d557727edd63a5ac60003c117c4e
 system.conf	b9acdc8fc57b847b9312db3f02febd74
 ygopro.exe	32fb11d7dc3de1225402710b1d5e730a
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
@@ -18422,11 +18422,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	ee70a32cc2483f87b560c04547ea9524
+update-koishipro/filelist.txt	7e740b2ebc6e98ad8a02cf6c04164986
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	0dc6e4b2a7bf2fb2e0d229cfad05cb57
+update-koishipro/version.txt	c09aa13ccefa3dff870d86094ec76fdb
