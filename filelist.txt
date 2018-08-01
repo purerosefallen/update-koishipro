@@ -1,4 +1,4 @@
-Bot.exe	2dbd49d2229a13c01cbc00150d2998f0
+Bot.exe	d7a357758524854fcb3e9a70db4579ef
 bot.conf	8b21dde4f086343d783bd84173db41f1
 cards.cdb	2f54d94deb5b56c4b9ea918984f2296f
 lflist.conf	a75403078f59c7bcab5251a4d6256724
@@ -6,7 +6,7 @@ strings.conf	cb0ac39234bad48070748da02c4c024f
 system.conf	c894016bb65a192ec2e249a07ca144ef
 ygopro.exe	98a730e33ed484f1b24c659efae60ab8
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
-WindBot/WindBot.exe	a09599a6193ea33fdd2b612b4f430ab2
+WindBot/WindBot.exe	134c38e4ef18057de06269e6ea8fd848
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
 WindBot/YGOSharp.OCGWrapper.Enums.dll	fecbcf880340dd06803f123647acb6ca
 WindBot/YGOSharp.OCGWrapper.dll	74cd4288807454d612087849adf7a86b
@@ -45,8 +45,11 @@ WindBot/Dialogs/BA.zh-TW.json	27afee271bd567b334e7711a1febc09a
 WindBot/Dialogs/anothercopy.zh-CN.json	4eef87b983fbd57d0eda0b20e775289f
 WindBot/Dialogs/ayane.zh-CN.json	da27cfcf8aaf2efd69773be2adab0dab
 WindBot/Dialogs/cirno.zh-CN.json	9c23b3ea1f7b2a72cd16a6ea9714fe95
+WindBot/Dialogs/copy.en-US.json	b2a22166855920564af2f95f492d7e25
 WindBot/Dialogs/copy.zh-CN.json	88d14290d671295a31b95017fd628807
 WindBot/Dialogs/default.json	0b06f53d54904263caa3304875ed5b44
+WindBot/Dialogs/kagari.en-US.json	b51bfd5d23537b837c5368ccfd94fc50
+WindBot/Dialogs/kanata.en-US.json	7e55554cf42884e70011ef012cc80c2d
 WindBot/Dialogs/kiwi.zh-TW.json	90c321dd5ca1329cda4421dac3b288b3
 WindBot/Dialogs/meon.zh-CN.json	7dff47629b0e9f19b5167e276d0e6061
 WindBot/Dialogs/mokey.zh-CN.json	b967642b9cdfac7090627f94dee71a35
@@ -63,6 +66,14 @@ deck/Blue Eyes.ydk	8fc9dc9a60047e0f22494213d45642a7
 deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 deck/new-20180724.ydk	d4857c05c53081080420015bd936081a
 deck/new-SOFU(1006).ydk	aa2579338592a91bc268e7c2bcdd6809
+locales/en-US/bot.conf	a5d7c5b088ff539c3d1c0c4016c6a30b
+locales/en-US/cards.cdb	d6fa83b6b507488c1ad93ce2ac083484
+locales/en-US/strings.conf	45de2d9f39b5f184fc49e453927ca0f0
+locales/ja-JP/cards.cdb	488870c8f22fec0e4f73fdcd088a8af9
+locales/ja-JP/strings.conf	17c0a8bf27441d0980f5b5e766f0adc0
+locales/zh-CN/bot.conf	8b21dde4f086343d783bd84173db41f1
+locales/zh-CN/cards.cdb	2f54d94deb5b56c4b9ea918984f2296f
+locales/zh-CN/strings.conf	cb0ac39234bad48070748da02c4c024f
 pics/10000000.jpg	80f730a4c9a48bdda7461af88f518975
 pics/10000001.jpg	09a6431c652bf74306652ab534965b3b
 pics/10000002.jpg	9e3017025b463b9f7dbd5800e05a31b2
@@ -18422,11 +18433,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	36473668bbfd3949ca5d73d82b83c484
+update-koishipro/filelist.txt	79c508500cb20cedaa72b38084efc232
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	b8658380a32bd17542b6b43114c2b62c
+update-koishipro/version.txt	7c8d4082bc142148c34dd75e935db2e1
