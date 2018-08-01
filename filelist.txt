@@ -68,7 +68,7 @@ deck/new-20180724.ydk	d4857c05c53081080420015bd936081a
 deck/new-SOFU(1006).ydk	aa2579338592a91bc268e7c2bcdd6809
 locales/en-US/bot.conf	a5d7c5b088ff539c3d1c0c4016c6a30b
 locales/en-US/cards.cdb	d6fa83b6b507488c1ad93ce2ac083484
-locales/en-US/strings.conf	45de2d9f39b5f184fc49e453927ca0f0
+locales/en-US/strings.conf	944e7aabbcaf463df52189d0b5326f7a
 locales/ja-JP/cards.cdb	488870c8f22fec0e4f73fdcd088a8af9
 locales/ja-JP/strings.conf	17c0a8bf27441d0980f5b5e766f0adc0
 locales/zh-CN/bot.conf	8b21dde4f086343d783bd84173db41f1
@@ -18433,11 +18433,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	5bac88156b6f5c91967410e4eb6e5360
+update-koishipro/filelist.txt	7f4e5ebbde7b37e9d0f1d346625cccaf
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	9389fd048347efbad73927ebf6245a46
+update-koishipro/version.txt	47b35c7ea2c1645500832ef5d8e1a1c3
