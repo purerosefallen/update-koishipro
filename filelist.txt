@@ -69,6 +69,7 @@ deck/new-SOFU(1006).ydk	aa2579338592a91bc268e7c2bcdd6809
 locales/en-US/bot.conf	a5d7c5b088ff539c3d1c0c4016c6a30b
 locales/en-US/cards.cdb	d6fa83b6b507488c1ad93ce2ac083484
 locales/en-US/strings.conf	944e7aabbcaf463df52189d0b5326f7a
+locales/ja-JP/bot.conf	c4d6349538a52b4cc25a20ac56968f08
 locales/ja-JP/cards.cdb	488870c8f22fec0e4f73fdcd088a8af9
 locales/ja-JP/strings.conf	17c0a8bf27441d0980f5b5e766f0adc0
 locales/zh-CN/bot.conf	8b21dde4f086343d783bd84173db41f1
@@ -16826,7 +16827,7 @@ script/c84569017.lua	842e874025eb604342c00ad4ffcd774f
 script/c84569886.lua	a872a9d8e777cd758a7c318a5044d724
 script/c84592800.lua	b7a794b4f5a6c95e2b9b5f1461647f4a
 script/c84613836.lua	c2947e2e92ffe7c35b740635dacbecae
-script/c84636823.lua	12bb01764c3930ce18d8131260761717
+script/c84636823.lua	69c2abe3a6921b00319bba316ea25952
 script/c8463720.lua	c961451fce69f0864fbc3db3ba685d63
 script/c84640866.lua	2e3c0e57a79ea38425e2593353960ab3
 script/c84650463.lua	24823624e7171a315e60972a465c3d27
@@ -18433,11 +18434,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	95ab8ff2cfe2c8454aabd1dd7c9553d6
+update-koishipro/filelist.txt	7a1395cedad6547968b53c9e266da6d8
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	553006578e79093f7b3eaa037eabff7f
+update-koishipro/version.txt	ffec55c5ed91406c92a64b16ca2f1921
