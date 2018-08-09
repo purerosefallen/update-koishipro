@@ -2,9 +2,9 @@ Bot.exe	d7a357758524854fcb3e9a70db4579ef
 bot.conf	8b21dde4f086343d783bd84173db41f1
 cards.cdb	4aaa693250ea067e8e485a4ddf8d84b4
 lflist.conf	a75403078f59c7bcab5251a4d6256724
-strings.conf	1f3be21eeec7b0b2d9809b7aa150649d
+strings.conf	e8a06889bb441af77f707d526e22bf3d
 system.conf	c894016bb65a192ec2e249a07ca144ef
-ygopro.exe	8ad6abf30ae61862652b4d9b212acc51
+ygopro.exe	cc67f8b51650c4ba79ca286ef3f4c1d5
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/WindBot.exe	134c38e4ef18057de06269e6ea8fd848
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
@@ -18407,6 +18407,7 @@ textures/attack.png	cb91faa4b81cef4e0e64789ea4cc38c7
 textures/bg.jpg	7aa4e2e26077c3c4af8bba1f2dcbd13d
 textures/bg_deck.jpg	eaa5247c56df83e6528160e41da3c446
 textures/bg_menu.jpg	262409e32be52842903c61b6b0e48686
+textures/cardtype.png	d045e544c87422d8c887775cbaa0c1f2
 textures/chain.png	b5928867aaf3bea1896974d7b9c51010
 textures/chaintarget.png	6b03cfaebd56d0eba9dd7c76596b9eb9
 textures/clock.png	4266c49a9327b392659e4afa813eebbf
@@ -18512,11 +18513,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	f806a0763b597e5faf289ae95e6e7657
+update-koishipro/filelist.txt	6e7a16c1b401c366470afb7855cb6306
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	fe769fff6cc9545a4d4dce368250ab99
+update-koishipro/version.txt	ecfcb8ef263032c0ce0e729c96ad8ae8
