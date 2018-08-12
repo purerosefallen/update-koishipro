@@ -1,10 +1,10 @@
 Bot.exe	d7a357758524854fcb3e9a70db4579ef
 bot.conf	8b21dde4f086343d783bd84173db41f1
-cards.cdb	4aaa693250ea067e8e485a4ddf8d84b4
+cards.cdb	d777dcea2968bb9ea7108e01ed8348b2
 lflist.conf	a75403078f59c7bcab5251a4d6256724
 strings.conf	e8a06889bb441af77f707d526e22bf3d
 system.conf	c894016bb65a192ec2e249a07ca144ef
-ygopro.exe	b3659533c601055d3b54c52085981420
+ygopro.exe	1a80f63600d7e28816d54bae5a14aae3
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/WindBot.exe	134c38e4ef18057de06269e6ea8fd848
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
@@ -75,7 +75,7 @@ locales/ja-JP/strings.conf	70f4339c1c240f4482d20873c9159436
 locales/ko-KR/cards.cdb	86fc4ee4bc47eabf852b0ba5151e0cdd
 locales/ko-KR/strings.conf	896ea745ab7983aefa4c1c75f2db323b
 locales/zh-CN/bot.conf	8b21dde4f086343d783bd84173db41f1
-locales/zh-CN/cards.cdb	4aaa693250ea067e8e485a4ddf8d84b4
+locales/zh-CN/cards.cdb	d777dcea2968bb9ea7108e01ed8348b2
 locales/zh-CN/strings.conf	1f3be21eeec7b0b2d9809b7aa150649d
 pics/10000000.jpg	80f730a4c9a48bdda7461af88f518975
 pics/10000001.jpg	09a6431c652bf74306652ab534965b3b
@@ -18513,11 +18513,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	e958828ef04cdfe0525fa96ac83161d1
+update-koishipro/filelist.txt	270cde1d908f4d0f369378e39b31f4be
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	45e2e6fb26fea10a2715e2b32a9f69a8
+update-koishipro/version.txt	f261b8c8ddecfe3110b772656563a959
