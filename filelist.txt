@@ -1,12 +1,12 @@
-Bot.exe	7fd390def1451274641b353b750a8c44
+Bot.exe	6f469d25a4edcbd19a5d8beb47aef474
 bot.conf	a8faa11ca779efd92383aa838167cbba
 cards.cdb	e53b6857b343faba38450a11aef97466
 lflist.conf	a75403078f59c7bcab5251a4d6256724
 strings.conf	bfdb9c372583f5d63315d5fe84b84582
-system.conf	b4ade06611b9f8374ca78fc4d1853b95
-ygopro.exe	19455355e43b16e5014d20a41dbfabe0
+system.conf	7fa3d4b09c6be3f11f9da60d9d032120
+ygopro.exe	64ca2f8d3deb005cce6f09757888be04
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
-WindBot/WindBot.exe	10a531f9a1bb2d91b10e7958ab569bc8
+WindBot/WindBot.exe	ca88fdac7b4cf0e263f0cb257adeec1b
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
 WindBot/YGOSharp.OCGWrapper.Enums.dll	d469c9679194e410dd0ce94ac70093ff
 WindBot/YGOSharp.OCGWrapper.dll	74cd4288807454d612087849adf7a86b
@@ -69,6 +69,8 @@ deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
 deck/Blue Eyes.ydk	8fc9dc9a60047e0f22494213d45642a7
 deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 deck/new-DBHS.ydk	94dbd2e4459d9ab0028c7926669b9a12
+fonts/arial.ttf	fe6b41f2c2d2c7655ec1e44520667a13
+fonts/simhei.ttf	e54ea8e978c319647285100ebcabb037
 locales/en-US/bot.conf	a5d7c5b088ff539c3d1c0c4016c6a30b
 locales/en-US/cards.cdb	0fbf412f8ad98184208bb965684bbdeb
 locales/en-US/strings.conf	44ad475fd596bb18e20277f37fc47556
@@ -12947,7 +12949,7 @@ script/c423705.lua	de14d109c43ded880bbf8acd392cf8f7
 script/c42378577.lua	1628a81a0ce00ee09807b9ecce2acf01
 script/c42386471.lua	2080446b861f91d0b91fe21553f32e38
 script/c42391240.lua	d15596386c4ba69b5b6cc0003ef77e5c
-script/c4239451.lua	5f32e477a72ff9cf1fc7e4f09f7239a4
+script/c4239451.lua	14a99051feb08c3be6ff79dccc20ca6e
 script/c42421606.lua	a411cbfc202b3ebfdb92236b7843800e
 script/c42425831.lua	8b330a034a0f119571f992cac3cf9054
 script/c42444868.lua	e7ce37ac79df46954fede7f4e587d489
@@ -15706,7 +15708,7 @@ script/c71541986.lua	0c49e7f9fae9e08ddd955075e76d94a3
 script/c71544954.lua	68287c91a11ee80e5280f535be16dcd3
 script/c71564150.lua	0ce2cfc9f64285e40040c14bd3b726ee
 script/c71564252.lua	7292fe04acb697cc81e2e038404de99e
-script/c71578874.lua	20bd154255b84622c7db4256f86dac30
+script/c71578874.lua	47cc889c54bbf8319bcaf48fffa71b45
 script/c71587526.lua	9f947c5e069c7bb08c9067d62c8ed714
 script/c71594310.lua	1c94f8a50bc6cdda91da772e6cec5e44
 script/c71612253.lua	2edea3e35de323fa704b7595734e0451
@@ -16488,7 +16490,7 @@ script/c79870141.lua	01b1b3166eea767e5bda985e51fa78cc
 script/c79875176.lua	331f46ae79894b6e20447ff2de5de691
 script/c799183.lua	9326c9dd30ee20453882869254b8010e
 script/c79965360.lua	a633c3782fe12579d396dd932acf78e3
-script/c79967395.lua	ae350654f54b1348b704c81a28f10495
+script/c79967395.lua	2d7ebb42dfef38e81e8aedacfb0061b5
 script/c79968632.lua	7bca8ba1328bd1eeda0e30eb5ba74ad8
 script/c79972330.lua	4f6fcb0a59156c60f36f231c89e5802d
 script/c79979666.lua	448ce8a31f1b4c7645be87d3f96b71ae
@@ -18336,7 +18338,7 @@ script/c99946920.lua	819025de00a134afe452d565dd6e4422
 script/c9995766.lua	ff3b8af9ecc5064cd71fe900e818fb1d
 script/c99995595.lua	834c15694b0d2a9e54a2d57225d5c6d6
 script/c9999961.lua	dd1203fd7facf6a6e0683a375309bf05
-script/constant.lua	6a827f601969a91c94d2818015df9ea9
+script/constant.lua	4a494685c5973e43719e09dedcb3f5ca
 script/utility.lua	2fc3d8c9447c53741a3b89fbbe403381
 single/LinkSummon.lua	3c9fd1e4a03d1cf88214350e52825724
 single/sample1.lua	c2a889c1c595dfb6fd5d4f177315e9d2
@@ -18556,11 +18558,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	553ae3caf453000113ddac01dd89db1d
+update-koishipro/filelist.txt	9182c45269696c65a2041450b3409689
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	36e0be568a651992decf03d49fe1765f
+update-koishipro/version.txt	d5f6fb046e04593312b803632ac3dbdb
