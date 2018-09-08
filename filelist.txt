@@ -4,7 +4,7 @@ cards.cdb	034cbe317f8540b840b93d01a021022a
 lflist.conf	a75403078f59c7bcab5251a4d6256724
 strings.conf	d1cff88c5a68986a944cd83ff57a47de
 system.conf	7fa3d4b09c6be3f11f9da60d9d032120
-ygopro.exe	079d6c1a02026d605f601ff8e6df3b3b
+ygopro.exe	05b4a3e63932f0084c6d0edb75f58aeb
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/WindBot.exe	7a95607b559e3388e910ce8537e2fe91
 WindBot/YGOSharp.Network.dll	9b828d9a998b90ec811f056062748d73
@@ -12705,7 +12705,7 @@ script/c40028305.lua	e3674a9929b1cfc80d33935c6c25f6e1
 script/c40044918.lua	6e9882887671d5bedf8b6afb05e6ea3e
 script/c40048324.lua	9414b26e9731448c9c8418872ab920e3
 script/c40061558.lua	5026abac5caaa6eed758f855d2de5b0e
-script/c40080312.lua	3e3b9147c10fd9bb9fef747c67f23095
+script/c40080312.lua	80169571da2417e3257dcf128a85f59b
 script/c40089744.lua	b227940e3a093b02e938d61a0d115176
 script/c40101111.lua	0b8a210ac5afaf000ff9622b48d4eefd
 script/c40133511.lua	513cac69e257d2ead9fb71c0b531e367
@@ -15166,7 +15166,7 @@ script/c65646587.lua	bdac16efffef399ec917403d5ba1066d
 script/c65659181.lua	72084e1451be87012e236aebf69d4737
 script/c65676461.lua	cc7aaee0f4a8ea2205b3913da28d1d38
 script/c65685470.lua	0554a73ffc71a14055ae5c0218fc9d62
-script/c65687442.lua	3eb0ea55a151af1fb39748dc0cb648e4
+script/c65687442.lua	2fc0047839c8162ba8d9b70edae50b64
 script/c65703851.lua	b5ccc5e3a07a7e46a1657549eb5200fd
 script/c65737274.lua	a823128daa32ba88f6349e1d2852ca57
 script/c65743242.lua	f1d82a82f11b79cde196a2ba7b2a6f17
@@ -16238,7 +16238,7 @@ script/c770365.lua	eb1663a092b6dca7dd0d013e291d3592
 script/c77044671.lua	2bdd7d23c43424c2acbb52e76c4f2547
 script/c77058170.lua	e78d9d9dbcd208e484166508e2413647
 script/c77060848.lua	9835760e892f2beebd376f1ad031c7b7
-script/c77075360.lua	70ad712be72d167509fa931a0df63ad6
+script/c77075360.lua	14d6f11fcce80064115322e97f69300a
 script/c77084837.lua	0cda737e218852b095cee4597b150411
 script/c77087109.lua	a4790778b760a2796a4a87283c2d84c4
 script/c77092311.lua	ca4b82db5399cff00aaffb113e14ff97
@@ -18558,11 +18558,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	e187fd74a8afb265c6d834257770904e
+update-koishipro/filelist.txt	99b3d84f3f1e0c0783f1f6e0bc92e3aa
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	eb2d795f0f56ab65715661b8dbfd4a2a
+update-koishipro/version.txt	4930d374ef5c62399501516b2116e231
