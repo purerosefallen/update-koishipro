@@ -14446,7 +14446,7 @@ script/c57782164.lua	8f7b42524f934a4ef9abbd86a5b3935c
 script/c57784563.lua	ea94373acaa085e7213bea29cfdcf147
 script/c57793869.lua	2f1dff56cfbef1d1403cbe9e13716f88
 script/c5780210.lua	905a16c21cfcb06716ad5dc9466cc44d
-script/c57815601.lua	273424e6b2273d3ce2cbacfef32d1025
+script/c57815601.lua	8f7fff4c520b0411262219d21f26b248
 script/c57827484.lua	9ceb14d756535049fe0fdc01143ed659
 script/c57831349.lua	29376bf6ca9666d745a232eb06196506
 script/c57835716.lua	e9824f5359416f7ee153312715bd036f
@@ -14543,7 +14543,7 @@ script/c58775978.lua	ca1d6ebe89ce35125e21b4e286e23792
 script/c58786132.lua	b8a0b1d8c1265da6aa810b5a68974370
 script/c58787301.lua	2f6a1e957ce47cf015a9b7e062a99199
 script/c58807980.lua	aaba65ae5e36a35de91d1665f56045a0
-script/c58811192.lua	d362f6f78cc0fa6ac75764364c9a7b49
+script/c58811192.lua	82210bf8c7e32f672a1a7ab9ac4f7cc3
 script/c58820853.lua	e75b1e530438d8c56cab78ccef2fd7fc
 script/c58820923.lua	ab1b7840e06cf595d0df9ddf3ac8d777
 script/c58843503.lua	781b983638f8f4cf43c3095d0a20e940
@@ -16822,7 +16822,7 @@ script/c83135907.lua	0ce9b0df6ea7b9359a5da07951b250d6
 script/c8316565.lua	3281e92b92d694df0a33e956257a7363
 script/c8316661.lua	7dd1fe6c2a6a6805731bde9423e41afa
 script/c83190280.lua	7dbaa659b917cf75527a44749fe235e3
-script/c8321183.lua	83088e175996ba78dad4c48716374fb2
+script/c8321183.lua	64ea4c47e843bb5a0145b272fd19e373
 script/c83225447.lua	3f8d35fba311ec7be82ca152b4780cf0
 script/c83228073.lua	c16c5b140edf48971d699b5d83759f57
 script/c83235263.lua	26081ef3d89da7269c468398056a5313
@@ -18565,11 +18565,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	3fbc237f6808d2a58a7d17dd96dc5933
+update-koishipro/filelist.txt	d14326580f75431368e44f069e7771dc
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	c7581a7da4991d315fe199e57bd3f492
+update-koishipro/version.txt	41d2ad8088ad5bb923a61e2c6f85e91c
