@@ -71,8 +71,8 @@ deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
 fonts/arial.ttf	fe6b41f2c2d2c7655ec1e44520667a13
 fonts/simhei.ttf	e54ea8e978c319647285100ebcabb037
 locales/en-US/bot.conf	c4c135e4669537db461eee8c0b34689e
-locales/en-US/cards.cdb	5a03e4289a32dc644325e1ce439bd83e
-locales/en-US/strings.conf	24dcfa260ce13909c517e7723d63b470
+locales/en-US/cards.cdb	db4687de7efb8383df482bb340177e87
+locales/en-US/strings.conf	f701862beb3d7cad054eeaa91e8de3f0
 locales/es-ES/bot.conf	c4c135e4669537db461eee8c0b34689e
 locales/es-ES/cards.cdb	204324a4b430ab032d464b3ebf04b58b
 locales/es-ES/strings.conf	2d374d0f30516604c94ecffcc7350c35
@@ -18589,11 +18589,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	ad648ec832147a32dec49acf5657b7ed
+update-koishipro/filelist.txt	dac2956c5e0093a47c8b041c789b985b
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	67f330b30de17ff3291532ac9453d1e3
-update-koishipro/version.txt	da585e07d2222f480d0c3f9faabd2df9
+update-koishipro/version.txt	dc472d22e6fbe698dff4ca8055e446f6
