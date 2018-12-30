@@ -1,4 +1,4 @@
-Bot.exe	4edabcb7dd61df7149f08739b9239760
+Bot.exe	3de71a88fe68fde437d5f29a2ba4a3b7
 bot.conf	d1b18654628c4f3da60da978f8ac34c6
 cards.cdb	c5f91fa0d50429eb611a92a9048676b8
 lflist.conf	788c54a6955bfef43280ee06b590f3a5
@@ -6,7 +6,7 @@ strings.conf	a8a22119f79ebc0e804474bd967085d2
 system.conf	1456a8ed5fcdd08894a82f86df4937c1
 ygopro.exe	578da8d5db547805655edb3bc4e401f4
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
-WindBot/WindBot.exe	6a9e5777828e0ec1bbe0def4be455bf8
+WindBot/WindBot.exe	635611816ab217e658394c632696b983
 WindBot/YGOSharp.Network.dll	8632897df373e463f4120c73e0fb628e
 WindBot/YGOSharp.OCGWrapper.Enums.dll	a999f7ace286cdf4f4b18db8e0ef53d1
 WindBot/YGOSharp.OCGWrapper.dll	5746a9f70901475ed69de35dc42bc72c
@@ -18778,7 +18778,7 @@ script/c9995766.lua	ff3b8af9ecc5064cd71fe900e818fb1d
 script/c99995595.lua	834c15694b0d2a9e54a2d57225d5c6d6
 script/c9999961.lua	dd1203fd7facf6a6e0683a375309bf05
 script/constant.lua	a4efb02598db672ff5b2625f10d61258
-script/utility.lua	c005a9082d50db53e126dfec2d1211ba
+script/utility.lua	e83eb0cc4d74432c965d828acd07103b
 single/LinkSummon.lua	26eeca74537f79ec8ba9396ee54174d3
 single/sample1.lua	c2a889c1c595dfb6fd5d4f177315e9d2
 single/sample2.lua	8dbe600ca6ce945265698e6016b8d076
@@ -19046,11 +19046,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	6e16f59a60a95d50df410da2e9c950d1
+update-koishipro/filelist.txt	77fb3b21f215e573207854922f7bbbdc
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	cf295c17b990e9b0eae7c89f532b28e4
+update-koishipro/version.txt	3c027befeee93a6f444473fd04d16af1
