@@ -18959,8 +18959,6 @@ textures/bg/bg1.jpg	ad95b13b66011b0f15239269b3101c41
 textures/bg/bgAU.jpg	ad95b13b66011b0f15239269b3101c41
 textures/bg/bgB.jpg	305c0ac2fb68766430629bcb14b218ca
 textures/bg/bgBE.jpg	07b44ff8121f836a2c0978c27d0b0bad
-textures/bg/bgCE.jpg	d9d1bd791a69d30aa9380c1a1b51383d
-textures/bg/bgDK.jpg	b1f5e8f1000d526b6682d6772f544268
 textures/bg/bgEF.jpg	208184ad1fd9cb615594be848b62d6bc
 textures/bg/bgGY.jpg	cbef6ad226433c0445b8a8c1ff23aa7e
 textures/bg_deck/bgFR.jpg	89aba1bf0f69b4406f724861152ccfcf
@@ -19054,11 +19052,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	0da5d499754f598a85f20a1cc0fc76a6
+update-koishipro/filelist.txt	25ffb2e2750af47f89672b1e9162989f
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	4bf15ea1d6b8fd4bdb0b43415f665476
+update-koishipro/version.txt	03655882f10eeb0751dba97850bac7bd
