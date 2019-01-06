@@ -19014,7 +19014,6 @@ textures/cover2/cover2LV.jpg	b846a03eea5aab47695220a79cb62f83
 textures/cover2/cover2MAG.jpg	c936f5107e1317aab75a46d118a5bcc8
 textures/cover2/cover2SA.jpg	9934f6e2d3e5a8851cfcd15494401031
 textures/cover2/cover2STR.jpg	d62c1d307d44795df42ac9aba3004ed1
-textures/cover2/cover2WCS.jpg	3ee04bb8f2abb8ef01d74090fb36e52b
 textures/cover2/cover2WZ.jpg	9d6ce111093b59c9cfa8efb572714507
 textures/cover2/cover2YL.jpg	f262f75fd4f27c25c72a1453b598de64
 textures/cover2/cover4STR.jpg	9953c5aa4f3b807e723136d82515590b
@@ -19052,11 +19051,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	25ffb2e2750af47f89672b1e9162989f
+update-koishipro/filelist.txt	8ac1f6abdfd4b0a05677ffe7ed90eefa
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	03655882f10eeb0751dba97850bac7bd
+update-koishipro/version.txt	d896b9356d46250c38520f08db8b64b7
