@@ -10918,7 +10918,7 @@ script/c18235577.lua	a0c0dd9e0aeb14c4c365cf17470acd26
 script/c18236002.lua	86be849a5ecd99c02897aa00e97c89f8
 script/c18239909.lua	a3110f5167a5cb3d52aa80960402db66
 script/c18252559.lua	ad187142815c95cb9b864ddd4a380d66
-script/c1825445.lua	c2eff1a5e8c90c6918e20ef2c245ffa1
+script/c1825445.lua	e00aadfbb7d1eec34ef56b1b0b8199e0
 script/c1826676.lua	0f7fff7f32afac9fafab235bdc3f760c
 script/c18271561.lua	4e382f06fe4e1ad8c7bd49e73b03a4b1
 script/c18282103.lua	06c0cf13e4e0c4cea21badf2172b9c59
@@ -11002,7 +11002,7 @@ script/c19048328.lua	b84e7d97d175593429a536b987c16937
 script/c19059929.lua	25f009364f76561b7805213d018b6019
 script/c19066538.lua	14564711ef4b1ce5c16c32f9b01a2a37
 script/c19086954.lua	a5eea9b78d8dd7e10641f6a58c27d430
-script/c19089195.lua	82122020b02c98ea51379a709763d468
+script/c19089195.lua	e5fba2aedf3625214e2ba04eaf6acf58
 script/c19113101.lua	5c1408a6123fd73a6003d4b6b4bf618e
 script/c19139516.lua	a0a2e4ed30961cc6d7757b530c7bdc6a
 script/c19153634.lua	e01310d4910ef1b77ee39768f928a3bd
@@ -12799,7 +12799,7 @@ script/c36935434.lua	b6640b1e75a5c3f66472eeeacefb7807
 script/c36953371.lua	660bee5ac48e30070cd3112175ada2a0
 script/c36956512.lua	9bb61f65fe9969625831a5e86434e3cb
 script/c36970611.lua	3f0bb76a80b4ddef2b6d9e6a13747f77
-script/c36975314.lua	cadd781957d32739024e412a2abd50e7
+script/c36975314.lua	aab18af537b46b33dfd42ac84ab10766
 script/c36995273.lua	3d5b9d194c08f2b88d62c131091d9f80
 script/c37007105.lua	7d990b3ee34eac022645045dcaf45a13
 script/c3701074.lua	76a58ba06f664c2cae2faec7a5537172
@@ -17781,7 +17781,7 @@ script/c87819421.lua	14f3d1c29d0aeea5ab0c5caf90f08e01
 script/c87835759.lua	4fb6c35975b1a0ba11ee38c86083c6f6
 script/c87836938.lua	78806abc5d88ee468f4d36691f560c40
 script/c8785161.lua	c238dafd731d3711b60c74a87fce6eb4
-script/c87871125.lua	6fa0c119794cb55840c20ddcfa3876ac
+script/c87871125.lua	a0c4cfd73c7b96f599fe30d227ab88e9
 script/c87880531.lua	f3c19d1f9cbb6fda735fcb403f9b0879
 script/c87890143.lua	0cd74de7c34fb916d3952de632c3a203
 script/c87902575.lua	06d01ab0052f0911f1d8e20863be8c94
@@ -18495,7 +18495,7 @@ script/c9523599.lua	a9c4578dca0938fbde530d1f26bb0289
 script/c95238394.lua	996c02049b3390a9c74e053044e1d708
 script/c95239444.lua	afc3897e3daa98061d2695fef6a5c00e
 script/c95254840.lua	0942ed92e90e52df70b7d0d35277c527
-script/c95281259.lua	7709a7413359fdf8d73a0eac1bfee46b
+script/c95281259.lua	8e7e3c541c99a880c7342464aa6a710e
 script/c95286165.lua	24db476145f701d450467d0399cd10ae
 script/c95291684.lua	5bfc9a2972dc132ac6f2d601b0cb50c7
 script/c95308449.lua	44c6c0a1ceecf07e73e1f7bb162608ed
@@ -19214,11 +19214,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	396a079423e9d0567fbb2953c0e0dc42
+update-koishipro/filelist.txt	8424fb6429e5e9b220ece81055dfd993
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	4af6de7f9ff8df80fa82517fc33c40da
+update-koishipro/version.txt	c3c42523cbb8ac0cef6378a7b79b09d7
