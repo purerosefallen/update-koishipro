@@ -75,8 +75,8 @@ locales/en-US/bot.conf	c4c135e4669537db461eee8c0b34689e
 locales/en-US/cards.cdb	1663d181d8c4ab2c5bad133bc395a339
 locales/en-US/strings.conf	1bad0c2e256897d85d1e90f1b27cc3ad
 locales/es-ES/bot.conf	c4c135e4669537db461eee8c0b34689e
-locales/es-ES/cards.cdb	974de40b9e6199e8a901420c463cbbbc
-locales/es-ES/strings.conf	e4091ddd4c3c67ef302d5e17682c8429
+locales/es-ES/cards.cdb	e793318d19363af4107afd7a70690f86
+locales/es-ES/strings.conf	7ddc73eb22b5b9e0f0479353bc2c7e96
 locales/ja-JP/bot.conf	c4d6349538a52b4cc25a20ac56968f08
 locales/ja-JP/cards.cdb	488870c8f22fec0e4f73fdcd088a8af9
 locales/ja-JP/strings.conf	24940f87911f4793e519df29fd728654
@@ -15529,7 +15529,7 @@ script/c64274292.lua	5421981023b0d191777cc0fe84b560b7
 script/c64280356.lua	3e210f12c7c86788a8932554465e01c4
 script/c64283880.lua	30976c08295a1866cdf6e4294a424f7a
 script/c64306248.lua	6a9ea6e6a1fe5e22216bc1997e481bf9
-script/c6430659.lua	0062222701e69d10e6651f7b46f73356
+script/c6430659.lua	5886db3b1c74be42c8b0b70c41b8fd85
 script/c64319467.lua	8b6e67e0d046a537b9e8b57918dbf889
 script/c64332231.lua	69a91385d20acb549d44e53c755b3c12
 script/c64335804.lua	db3627eb7ae63d356596d0cc5c10952c
@@ -19214,11 +19214,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	a53a66717669bbd05cb968701bb79a2a
+update-koishipro/filelist.txt	3e565ed4713e17fff6e26a754fc2b347
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	f52b4de2a5de98a1eaf7c59cf459f53c
+update-koishipro/version.txt	79768bfd87a7cecf94d732d789343ee3
