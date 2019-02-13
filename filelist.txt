@@ -4,7 +4,7 @@ cards.cdb	986447323e7aaac06e49ac13ea907b97
 lflist.conf	ae7cf25e404df8e31c0f3a671b296f53
 strings.conf	61ab6d65fe2b52ba7767c037f9acdab0
 system.conf	1456a8ed5fcdd08894a82f86df4937c1
-ygopro.exe	bad27190bc2644ab74ec2579c35bf0d8
+ygopro.exe	0b5ef9adc5e6f9f926d205d0a7f56e01
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/WindBot.exe	635611816ab217e658394c632696b983
 WindBot/YGOSharp.Network.dll	8632897df373e463f4120c73e0fb628e
@@ -11033,7 +11033,7 @@ script/c19012345.lua	c8cc5a1a423751489253d844b6defb29
 script/c19019586.lua	a3d8ba0892c33c9d5c20655058d4c08d
 script/c19024706.lua	44667d5173fda77eb28dda24b1c64f69
 script/c19025379.lua	cc8f726f6609c986804519c2e710b527
-script/c19028307.lua	cf7bc00cab6c1a9e1535c130c800a28d
+script/c19028307.lua	77b01a35bdc18d9fb80cb61536a44d83
 script/c19036557.lua	86e4ea076f1487ccd734f4169685f454
 script/c19041767.lua	d97994898d590458ce499c07e044ef06
 script/c19048328.lua	b84e7d97d175593429a536b987c16937
@@ -17686,7 +17686,7 @@ script/c86100785.lua	c736acb7b4fa374dd81e5499b401539f
 script/c8611007.lua	d55d68da3e96f9b28595a12f9459f038
 script/c86120751.lua	13f7013034147e8e41825f29ce5d67ec
 script/c86124104.lua	4d99f2fa600a08d183c2410ffd89961c
-script/c86137485.lua	73e1ec0e2b7f7d1f28508b75b04657e5
+script/c86137485.lua	c4153e4b4cb709e2786c19a66c256be9
 script/c86148577.lua	77d40f52fd2522e5df5006146e1a24e7
 script/c86157908.lua	7db1d975f1f1846de138561c07ec3231
 script/c86164529.lua	30f0d2af4c1695305a78fd7ea9203350
@@ -19278,11 +19278,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	91ea235cc6478bf63fa95b5fa597108a
+update-koishipro/filelist.txt	3e083b39a80f1c74a28d069dc6bdd259
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	f1535694cc4847da9655ddd2beb5dc9b
+update-koishipro/version.txt	517a75ae4de5724335fb4af7c35eae9f
