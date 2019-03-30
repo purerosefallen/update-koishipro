@@ -86,9 +86,6 @@ locales/pt-BR/cards.cdb	3baa3705cda4825c87648cd46b5aa6c5
 locales/zh-CN/bot.conf	d1b18654628c4f3da60da978f8ac34c6
 locales/zh-CN/cards.cdb	7b69863d08494284df98e180c835f29e
 locales/zh-CN/strings.conf	be5311a38326b3be0b142bd9b96b0ba2
-pics/00220414.jpg	081ca371202920feb4efcc97fde84093
-pics/04433488.jpg	ae21f6618799627586b16b2ec14949ce
-pics/04550066.jpg	037dbcf171f3d3abd8a0a047de07c0a3
 pics/10000000.jpg	f3226c245e5c2ec042d084f520f860e5
 pics/10000001.jpg	33eca58a4e67c4c1ea959b5426b2bce5
 pics/10000002.jpg	32e5d4dcd3a73ddd6b212ff879d0b69c
@@ -1482,6 +1479,7 @@ pics/22020907.jpg	e3308d7e559361adca540daccf134434
 pics/22026707.jpg	aa365f8c162319bed2b201178864c469
 pics/2203790.jpg	256874d6314c81abb28a63382be9f608
 pics/2204038.jpg	bf4ce6655b0b5af31ddb06e7aa6efd08
+pics/220414.jpg	081ca371202920feb4efcc97fde84093
 pics/2204140.jpg	f56b436a7907d0a36ff73878dcd14c2f
 pics/22046459.jpg	a5ca98f6d955507905335fdbc1620480
 pics/22047978.jpg	9b5c6867cfa89fc519eaf4d2935d9858
@@ -3994,7 +3992,7 @@ pics/44287299.jpg	06de0fe86692695d161b3260336056a6
 pics/44311445.jpg	84e20fb9b920405cbbc982b6fa2b2ce1
 pics/44330098.jpg	5dd1176808873e64de20f72f20f1ed82
 pics/44330099.jpg	32d4a20a30574e01000348eecfcc50b8
-pics/4433488.jpg	662d481ba6deefe4de5bfcdcebc0fe2e
+pics/4433488.jpg	ae21f6618799627586b16b2ec14949ce
 pics/44335251.jpg	93cece555485c6ea9e5ef4f752ce9112
 pics/44341034.jpg	1de2d7199a9c4f4b66ed795c280aa63c
 pics/44352516.jpg	41728f71b9e11d047759a55b0eb9f7ed
@@ -4132,7 +4130,7 @@ pics/45467446.jpg	66309ee1f67ad26ab92b35ecc8b0dc5d
 pics/4549095.jpg	ab8c7baaa3f0ad9126b1999956566bc4
 pics/45496268.jpg	f16a7263d9abaf34b446e94de706312e
 pics/45500495.jpg	1b127488b63fd99e07da3518be5f3fd5
-pics/4550066.jpg	37d527095b3742e1e70a3faac9c973c6
+pics/4550066.jpg	037dbcf171f3d3abd8a0a047de07c0a3
 pics/45531624.jpg	5f242775d4090154b96b69e86114e9a3
 pics/45533023.jpg	01b83b3380afdc5af4bc523ca40080e0
 pics/45547649.jpg	855179c2db2e8bd4332d62d7de552190
@@ -19407,11 +19405,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	602f8a99f09b7e250212681276a000e7
+update-koishipro/filelist.txt	70bdd413d61d778400ccd304241fe702
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	f2e83eabecc10b5358b6647549b9df23
+update-koishipro/version.txt	1d7dd5e010604ca7accddf429204add8
