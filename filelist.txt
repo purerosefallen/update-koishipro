@@ -1,6 +1,6 @@
 Bot.exe	ae3a1256cd8b0847e234cde398d71d63
 bot.conf	d1b18654628c4f3da60da978f8ac34c6
-cards.cdb	301bca9f88b6b15995f51f81e57a0572
+cards.cdb	e3db556be62f502f65a9eaabacc408c1
 lflist.conf	ec21aea68f45449ae296d43f315c695a
 strings.conf	cf532c633686097d612385bcafb2b526
 system.conf	44c23146481e2325a95a0e01d4ee2059
@@ -68,11 +68,11 @@ deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
 deck/Blue Eyes.ydk	8fc9dc9a60047e0f22494213d45642a7
 deck/Shaddoll.ydk	f7b3ee8454b2d833cb3b89148bebbb4f
-deck/new-ST19+other.ydk	43f2c6169e9935b9af4a5b3831cb2b8a
+deck/new-RIRA(1009).ydk	41139385aa98a8538dc966ece4cf9609
 fonts/arial.ttf	fe6b41f2c2d2c7655ec1e44520667a13
 fonts/simhei.ttf	e54ea8e978c319647285100ebcabb037
 locales/en-US/bot.conf	c4c135e4669537db461eee8c0b34689e
-locales/en-US/cards.cdb	f46e48af4b819d31b24697a04ea51d0d
+locales/en-US/cards.cdb	e5241a2f93fa770c906d7b51e3614680
 locales/en-US/strings.conf	e4bd9e90ba15c4474a6ee77d29ab2a5f
 locales/es-ES/bot.conf	c4c135e4669537db461eee8c0b34689e
 locales/es-ES/cards.cdb	e3d20e5579041cfea19a5d8c8b589234
@@ -84,7 +84,7 @@ locales/ko-KR/cards.cdb	86fc4ee4bc47eabf852b0ba5151e0cdd
 locales/ko-KR/strings.conf	896ea745ab7983aefa4c1c75f2db323b
 locales/pt-BR/cards.cdb	3baa3705cda4825c87648cd46b5aa6c5
 locales/zh-CN/bot.conf	d1b18654628c4f3da60da978f8ac34c6
-locales/zh-CN/cards.cdb	301bca9f88b6b15995f51f81e57a0572
+locales/zh-CN/cards.cdb	e3db556be62f502f65a9eaabacc408c1
 locales/zh-CN/strings.conf	cf532c633686097d612385bcafb2b526
 pics/10000000.jpg	f3226c245e5c2ec042d084f520f860e5
 pics/10000001.jpg	33eca58a4e67c4c1ea959b5426b2bce5
@@ -19567,11 +19567,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	2be7ae3e7797986d0b78ef8904c12015
+update-koishipro/filelist.txt	9a037af38ad7afefc09c24efc68c1be7
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	93bd2ff270e7b6a1dd26c4db70414fac
+update-koishipro/version.txt	b2ccaabb73cad1d25b6412075640e7ce
