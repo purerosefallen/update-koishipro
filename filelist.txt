@@ -13151,7 +13151,7 @@ script/c36935434.lua	b6640b1e75a5c3f66472eeeacefb7807
 script/c36953371.lua	660bee5ac48e30070cd3112175ada2a0
 script/c36956512.lua	9bb61f65fe9969625831a5e86434e3cb
 script/c36970611.lua	3f0bb76a80b4ddef2b6d9e6a13747f77
-script/c36975314.lua	31f6b63477bf8f89acee09a296423ece
+script/c36975314.lua	9a8402a360f6b297d248f02991046711
 script/c36995273.lua	3d5b9d194c08f2b88d62c131091d9f80
 script/c37007105.lua	7d990b3ee34eac022645045dcaf45a13
 script/c3701074.lua	76a58ba06f664c2cae2faec7a5537172
@@ -19750,11 +19750,11 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	0b9e6c29d057174a896c9cb16442ef70
+update-koishipro/filelist.txt	ed7b34472166213894fe0a13ba57b97f
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
 update-koishipro/update.exe	af1ea5f32bdfe8b11e1d66b00727b974
-update-koishipro/version.txt	983045ef30ce0e7144f295b2aed0389e
+update-koishipro/version.txt	4619651bce3ce22b366fa0ca09f1bf40
