@@ -19751,10 +19751,10 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	41902440e077fb5dd4aef0327fdaab1b
+update-koishipro/filelist.txt	2edbd3a34c49a8c16ca5d79d39506370
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
-update-koishipro/version.txt	6a0dce588601276209f3acf628972a9c
+update-koishipro/version.txt	3e2920fa24ee514f7b792b5e621036a2
