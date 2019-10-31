@@ -1,4 +1,4 @@
-Bot.exe	48995b9cf1b3d7414f7a63e6a9401228
+Bot.exe	1811426773ac63bf7e2815d471435502
 bot.conf	38f6ed219f2dbf17eff2fc4729a5bd3e
 cards.cdb	d7de23c183439ea0916dda84a9e89151
 lflist.conf	7c2f1bfbde86b8c16e7cc7adf4b6a9af
@@ -6,7 +6,7 @@ strings.conf	12be395c4cd4f1f07133d998b3aa4f77
 system.conf	e2794d4aafdaccb6cb503245b870ad84
 ygopro.exe	4d9606dfba42d13dee2d0a2490348fb2
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
-WindBot/WindBot.exe	af1658619bd1fc590189bf680192769c
+WindBot/WindBot.exe	13670a2b0ac56b356488e5df9dd15be7
 WindBot/YGOSharp.Network.dll	8632897df373e463f4120c73e0fb628e
 WindBot/YGOSharp.OCGWrapper.Enums.dll	0943c9af3982158c0cfdb876899847b0
 WindBot/YGOSharp.OCGWrapper.dll	5746a9f70901475ed69de35dc42bc72c
@@ -25,7 +25,7 @@ WindBot/Decks/AI_Evilswarm.ydk	2c7b7f9d293ea67d666e29ca90794924
 WindBot/Decks/AI_Frog.ydk	58c1886b8db6e4695a3c416ae74f5528
 WindBot/Decks/AI_Gravekeeper.ydk	6a1944e179981f5cbf90dea2c5345361
 WindBot/Decks/AI_Graydle.ydk	47324e7f2105337046d1dd0e9a6953c2
-WindBot/Decks/AI_GrenMajuThunderBoarder.ydk	5db7e57f96d23e939d69c64e6af7c824
+WindBot/Decks/AI_GrenMajuThunderBoarder.ydk	44fb699ab06321498cdac07bfbdaf028
 WindBot/Decks/AI_Horus.ydk	3a83fd48830831da5a56a637827ed670
 WindBot/Decks/AI_Level8.ydk	9825fd4c3f72aa153cf1637e09ad815e
 WindBot/Decks/AI_Lightsworn.ydk	044f0236f7e928c5e02bbba104b084ea
@@ -20148,10 +20148,10 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	68940d4fa0f6803486037ce401b18cea
+update-koishipro/filelist.txt	967f5b63a2ecba6821eda6cd8325daae
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
-update-koishipro/version.txt	80216b18d3f18b2cd393a0a6931efe32
+update-koishipro/version.txt	f841052cd4dad448621f25aa7c8dbac6
