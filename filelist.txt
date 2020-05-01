@@ -79,7 +79,9 @@ deck/A Starter Deck.ydk	5fe0d1855cb1c00ab770d0940124583e
 deck/Blackwing.ydk	b95b41b9171f696e42e23004e330191d
 deck/Blue Eyes.ydk	8174785bb44cecc837d804fb23da53fb
 deck/Shaddoll.ydk	52be9ce62e32abad784de5c5cc58ed80
-deck/new-SD38+other.ydk	91a89da987661b84028ce1bd15999920
+deck/Shiranui.ydk	a8c7913b92aee4e964084a281965498a
+deck/Speedroid-Windwitch.ydk	9dd18fa06c5c607994cc8ada48b6384a
+deck/new-ROTD+other.ydk	ac23a86c650ec7abfc4735f2b2e5f957
 fonts/arial.ttf	fe6b41f2c2d2c7655ec1e44520667a13
 fonts/simhei.ttf	e54ea8e978c319647285100ebcabb037
 locales/en-US/bot.conf	978ffb3679116c65238f2dcc37ac90f4
@@ -20862,10 +20864,10 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	b0cc4d3deca6ab99ab0b7845cb8780dd
+update-koishipro/filelist.txt	9615c4f47d0911fce7154c2a194d7ca5
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
-update-koishipro/version.txt	3fddf30f1858602f4fa9469e4a9483c4
+update-koishipro/version.txt	ea2b77c8141734efd1a23c50285e7783
