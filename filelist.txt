@@ -1,10 +1,10 @@
 Bot.exe	650692edbfeb3770f65fc7700fcc923d
 bot.conf	7c81114e97f1f9839c1cd21c2b4d7a18
-cards.cdb	4c02473e44248f784e29bb1c9082b222
-lflist.conf	0364daed02e5d5e5651416f6c60cdd31
+cards.cdb	3dffe23f67886bbc62c44ece312b76c4
+lflist.conf	e5fd3daa2f4b4db97ffe9c988bf0d994
 strings.conf	13b83147d73836ddf3686d566af44f4d
 system.conf	8b1e9acbc88d721f5737190a781b7967
-ygopro.exe	f091a7c8d692bafd60217fb1fdcd62e1
+ygopro.exe	d41d8cd98f00b204e9800998ecf8427e
 WindBot/Mono.Data.Sqlite.dll	5da6e85593bf3181fb1bbf24c5464847
 WindBot/WindBot.exe	80e32e0865c85139e52ca8d1d8c29e82
 WindBot/YGOSharp.Network.dll	8632897df373e463f4120c73e0fb628e
@@ -97,7 +97,7 @@ locales/ko-KR/cards.cdb	86fc4ee4bc47eabf852b0ba5151e0cdd
 locales/ko-KR/strings.conf	896ea745ab7983aefa4c1c75f2db323b
 locales/pt-BR/cards.cdb	3baa3705cda4825c87648cd46b5aa6c5
 locales/zh-CN/bot.conf	4153e404460ac0f0729513b596488965
-locales/zh-CN/cards.cdb	4c02473e44248f784e29bb1c9082b222
+locales/zh-CN/cards.cdb	3dffe23f67886bbc62c44ece312b76c4
 locales/zh-CN/strings.conf	13b83147d73836ddf3686d566af44f4d
 pics/10000.jpg	6671077ff1b0a69165d37eea95f3e4f0
 pics/10000000.jpg	befe964bfbbdc0b23dc1ed769a850d6a
@@ -21738,10 +21738,10 @@ textures/roombrowser/flag-eu.jpg	09227cfafe7f05ae7175b43d630660da
 textures/roombrowser/flag-usa.jpg	99b7671aa6b749cdaa2ce99e0b152bcc
 textures/roombrowser/lock.png	641f86532b1340122ebc0ed96cb4ebfc
 update-koishipro/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-update-koishipro/filelist.txt	b94fd2646b0807b0e338e57e4e5b08c6
+update-koishipro/filelist.txt	a85c0fa77012a3d5b92346893521253b
 update-koishipro/rename.txt	c4625b442bf8f5c2e7ce4deb512d4671
 update-koishipro/update-push.bat	686b01a51bba916202d61d951cd7fe3e
 update-koishipro/update-push.sh	b46926507cf9976ecd80f00425358cfa
 update-koishipro/update-server.sh	1e36cb099427f8fda3cd52756b07398d
 update-koishipro/update-without-sound.bat	1c2cfda2a0501642c8bceae026a73d5b
-update-koishipro/version.txt	2022ce1b304f9538dfa5f69930d1696f
+update-koishipro/version.txt	3588e8c6dfeac935d5f6622e017568a7
